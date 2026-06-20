@@ -1,5 +1,5 @@
 {
-  "name": "mbpt",
+  "name": "timetogivefoundation",
   "main": "dist/server/server.js",
   "assets": {
     "directory": "dist/client"
